@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- |
 | **Diar** | ***Trần Huy Bảo*** | `23/03/2010` | `VietNam` | `write code`, `play game` | `PHP` |
 
-
+<a align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiarDev&layout=compact&theme=dark" alt="top-langs"/>
 <img src="https://github-readme-stats.vercel.app/api?username=DiarDev&theme=dark&show_icons=true" alt="github-stats"/>
 <img src="https://github-profile-trophy.vercel.app/?username=DiarDev"/>
@@ -17,7 +17,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br>
-<img src="thua.jpg" align="center">
+<img src="thua.jpg"/>
+</a>
 
 <!--
 **DiarDev/DiarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
