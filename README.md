@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiarDev&layout=compact&theme=dark" alt="top-langs"/>
 <img src="https://github-readme-stats.vercel.app/api?username=DiarDev&theme=dark&show_icons=true" alt="github-stats"/>
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /><a>C++</a><br><br>
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /><a>PHP</a><br><br>
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /><a>C#</a><br><br>
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /><a>Java</a><br><br>
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /><a>PHP</a><br><br>
